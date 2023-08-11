@@ -1,0 +1,5 @@
+start CMD as Admin
+
+cd C:\Users\Rybak\Desktop\react\PicGenApp\backEnd\nsfw_detector\customDetector
+conda activate NSFW3
+jupyter notebook
